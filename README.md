@@ -8,9 +8,12 @@ This project has two main objectives:
 1. **Cartoonize images using traditional computer vision techniques**.
 2. **Train a Generative Adversarial Network (GAN)** to perform the same cartoonization task.
 
-## Project Structure
+## Project Overview
+The `image_cartoonizer` project provides tools to cartoonize images using traditional techniques and deep learning. The second approach involves training a GAN model (Pix2Pix) to automate the process.
 
 <img src="cartoonization.png" alt="Sample Image" width="400"/>
+
+## Project Structure
 
 ### `data/`
 - **cartoonized_images/**: Set of images cartoonized by various methods.

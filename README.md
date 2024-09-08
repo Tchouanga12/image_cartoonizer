@@ -1,5 +1,6 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Tchouanga12/SAM-Quality_Control/blob/main/LICENSE)
 [![Python version](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)](https://www.python.org/downloads/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.0%2B-orange.svg)](https://jupyter.org/install)
 [![Contributors](https://img.shields.io/github/contributors/Tchouanga12/SAM-Quality_Control.svg)](https://github.com/Tchouanga12/SAM-Quality_Control/graphs/contributors)
 
 # Image Cartoonizer

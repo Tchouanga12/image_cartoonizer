@@ -8,6 +8,12 @@ This project has two main objectives:
 1. **Cartoonize images using traditional computer vision techniques**.
 2. **Train a Generative Adversarial Network (GAN)** to perform the same cartoonization task.
 
+## 🌐 Live Demo
+
+<img src="data/Data_Transformation/valid/images/LU-F_mod_jpg.rf.aede730e7c3fdcd40af8ca0117ca153c.jpg" alt="Sample Image" width="400"/>
+
+You can visit the live version of the web application here: ([SAM APP](https://samappdocker.onrender.com)) - **In maintenance**
+
 ## Project Structure
 
 ### `data/`

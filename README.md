@@ -10,7 +10,7 @@ This project has two main objectives:
 
 ## 🌐 Live Demo
 
-<img src="data/Data_Transformation/valid/images/LU-F_mod_jpg.rf.aede730e7c3fdcd40af8ca0117ca153c.jpg" alt="Sample Image" width="400"/>
+<img src="cartoonization.png" alt="Sample Image" width="400"/>
 
 You can visit the live version of the web application here: ([SAM APP](https://samappdocker.onrender.com)) - **In maintenance**
 

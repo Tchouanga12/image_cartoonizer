@@ -12,9 +12,11 @@ This project has two main objectives:
 The `image_cartoonizer` project provides tools to cartoonize images using traditional techniques and deep learning. The second approach involves training a GAN model (Pix2Pix) to automate the process.
 
 Example 1:
+<br>
 <img src="cartoonization.png" alt="Sample Image" width="400"/>
 
 Example 2:
+<br>
 <img src="cartoonization2.png" alt="Sample Image" width="400"/>
 
 ## Project Structure

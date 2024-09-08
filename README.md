@@ -13,6 +13,8 @@ The `image_cartoonizer` project provides tools to cartoonize images using tradit
 
 <img src="cartoonization.png" alt="Sample Image" width="400"/>
 
+<img src="cartoonization2.png" alt="Sample Image" width="400"/>
+
 ## Project Structure
 
 ### `data/`

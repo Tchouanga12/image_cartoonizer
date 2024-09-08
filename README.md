@@ -43,4 +43,40 @@ Image_to_cartoon_translation_with_a_conditional_GAN_(pix2pix).ipynb : file conta
 
 
 
+-----------------------------------------
+
+
+# Image Cartoonizer
+
+This project aims to cartoonize images using two methods:
+1. **Traditional Computer Vision Techniques**
+2. **Generative Adversarial Networks (GANs)** using the Pix2Pix model.
+
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Folder Structure](#folder-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Methods](#methods)
+- [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Overview
+The `image_cartoonizer` project provides tools to cartoonize images using traditional techniques and deep learning. The second approach involves training a GAN model (Pix2Pix) to automate the process.
+
+## Folder Structure
+- `data/`: Contains input and output images.
+  - `cartoonized_images/`
+  - `original_images/`
+  - `train/`, `test/`
+- `logs/`: Stores logs for tracking.
+- `script/`: Contains the core scripts.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tchouanga12/image_cartoonizer.git
+
+
 
